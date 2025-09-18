@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "ktm-transparency",
+    "slug": "ktm-transparency",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logos/logo-1024.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/logos/splash-logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0B0B0F"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "icon": "./assets/logos/logo-1024.png"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+
+# Node/Expo (for later)
+node_modules/
+dist/
+.expo/
+.expo-shared/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data dumps
+*.db
+*.sqlite
+backend/data/*.xlsx
+backend/data/*.xls
+backend/data/*.json
+backend/data/*.zip
