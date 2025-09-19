@@ -1,0 +1,1 @@
+export const API: string = process.env.EXPO_PUBLIC_API_URL || "https://2b57b11487d1.ngrok-free.app";

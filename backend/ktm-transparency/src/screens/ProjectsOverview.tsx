@@ -10,7 +10,7 @@ if (!VictoryPie || !VictoryChart || !VictoryBar) {
   console.warn("victory-native exports missing:", Object.keys(VictoryNative || {}));
 }
 
-const API: string = process.env.EXPO_PUBLIC_API_URL || "https://a6f6f929227d.ngrok-free.app";
+const API: string = process.env.EXPO_PUBLIC_API_URL || "https://2b57b11487d1.ngrok-free.app";
 
 type SectorRow = { sector: string; count: number };
 type TM = { year: number; month: number; count: number };
